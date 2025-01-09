@@ -73,3 +73,5 @@ Hootsuite/Buffers: Scheduling content on social networks.
 Meta Business Suite: Facebook and Instagram Management.
 Mailchimp: Creating and managing email campaigns.
 Google Analytics: Web traffic analysis.
+# Linkedin
+*https://www.linkedin.com/in/evelyn-d-/*
